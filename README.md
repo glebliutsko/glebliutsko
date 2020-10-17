@@ -1,16 +1,13 @@
-### Hi there 👋
+# Добро пожаловать
+## Обо мне
+Мне 17 лет.
 
-<!--
-**glebliutsko/glebliutsko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Учусь в [УАвиаК-МЦК](http://www.uaviak.ru/), на специальности "Информационные технологии". В свободное время учу програмировать на Python.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои проекты
+ - [УАвиаК Расписание](https://vk.com/uaviakbot) - Расписание Ульяновского Авиационного Колледжа
+ 
+## Контакты
+ - [Telegram](https://t.me/glebliutsko)
+ - [VK](https://vk.com/glebliutsko)
+ - [Email](mailto:gleb290303@gmali.com)

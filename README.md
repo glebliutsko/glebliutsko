@@ -7,6 +7,6 @@
 ## Контакты
  - [Telegram](https://t.me/glebliutsko)
  - [VK](https://vk.com/glebliutsko)
- - [Email](mailto:gleb290303@gmali.com)
+ - [Email](mailto:gleb@liutsko.ru)
  - [GitHub](https://github.com/glebliutsko)
- - [Web Site](https://glebliutsko.github.io/)
+ - [Web Site](https://me.liutsko.ru/)
